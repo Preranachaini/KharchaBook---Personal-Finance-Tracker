@@ -1,2 +1,2 @@
-# KharchaBook---Personal-Finance-Tracker
-KharchaBook is a simple and efficient personal finance tracker built with Python
+# KharchaBook - Personal-Finance-Tracker
+KharchaBook is a simple and efficient personal finance tracker built with Python. This command-line application allows users to log their income and expenses, view transaction histories, and analyze financial data over time. The project is designed to be beginner-friendly, demonstrating fundamental Python concepts such as file handling, data manipulation with pandas, and data visualization with Matplotlib.
